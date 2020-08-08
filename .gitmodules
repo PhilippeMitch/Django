@@ -1,0 +1,3 @@
+[submodule "wikipedia_se"]
+	path = wikipedia_se
+	url = https://github.com/PhilippeMitch/wikipedia_se.git
