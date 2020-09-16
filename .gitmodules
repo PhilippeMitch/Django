@@ -1,3 +1,6 @@
 [submodule "wikipedia_se"]
 	path = wikipedia_se
 	url = https://github.com/PhilippeMitch/wikipedia_se.git
+[submodule "eCommerce-1"]
+	path = eCommerce-1
+	url = https://github.com/PhilippeMitch/eCommerce.git
